@@ -57,6 +57,12 @@ dataset/
 
 ## Evaluation Method
 The proposed methodology is evaluated using comparative analysis with baseline models. Performance validation is conducted using standard classification metrics to assess predictive effectiveness and robustness.
+| Model                                              | Classification Accuracy (%) |
+|----------------------------------------------------|-----------------------------|
+| Deep Neural Network (Baseline)                      | ~90.0                       |
+| Feed-Forward Neural Network                         | 91.5                        |
+| Hybrid Neuro-Symbolic Model (NN + Random Forest)    | 94.5                        |
+
 
 ## Computing Infrastructure
 - Operating System: Windows / Linux
