@@ -12,6 +12,13 @@ This repository contains a neuro-symbolic framework for disease prediction using
 - Availability: Kaggle Repository
 - Link: https://www.kaggle.com/datasets/davidvictor297/electronic-medical-records-emr
 
+## Dataset Organization
+The dataset used in this study is a self-curated synthetic dataset designed to emulate clinical records. The data are organized into separate directories for input samples and corresponding labels to support reproducible experimentation.
+datasets/
+├── synthetic_emr/
+│   ├── text_records/
+│   └── labels/
+
 ## Code Information
 - Programming language: Python
 - Model types: Neural, symbolic, and hybrid architectures
