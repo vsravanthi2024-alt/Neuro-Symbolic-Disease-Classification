@@ -24,12 +24,10 @@ dataset/
 
           └── emr_data.csv
 |
-
 ├── processed/
 
            └── cleaned_emr_data.csv
 |
-
 └── symptoms/
 
             └── extracted_symptoms.csv
