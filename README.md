@@ -22,14 +22,17 @@ dataset/
 
 ├── raw/
 
-   └── emr_data.csv
+          └── emr_data.csv
 |
+
 ├── processed/
-   └── cleaned_emr_data.csv
+
+           └── cleaned_emr_data.csv
 |
 
 └── symptoms/
-    └── extracted_symptoms.csv
+
+            └── extracted_symptoms.csv
     
 
 ## Code Information
