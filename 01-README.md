@@ -1,4 +1,4 @@
-# Neuro-symbolic disease classification
+# Neuro-symbolic Model for disease classification
 This repository contains the implementation of a framework that combines neural and symbolic reasoning components using an attention-based fusion mechanism, enabling effective linkage between unstructured clinical narratives and structured medical knowledge. This design supports interpretable and reliable clinical decision-support modeling.
 # Project Title
 Neuro-Symbolic Disease Classification Framework
