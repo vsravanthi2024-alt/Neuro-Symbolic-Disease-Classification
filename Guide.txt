@@ -1,12 +1,9 @@
 
-
-## How to Run This Project (Easy Steps)
+How to Run This Project (Easy Steps)
 
 This Step by Step process navigate anyone can download, set up, and run this project successfully.
 
----
-
-## Step 1: Download the Repository
+ Step 1: Download the Repository
 
 1. Open the GitHub repository.
 2. Click the **Code** button.
@@ -21,7 +18,7 @@ git clone <repository-link>
 
 ---
 
-## Step 2: Install Python
+Step 2: Install Python
 
 1. Download Python from the official website.
 2. Install **Python 3.8 or higher**.
@@ -35,7 +32,7 @@ python --version
 
 ---
 
-## Step 3: Create and Activate Virtual Environment (Recommended)
+Step 3: Create and Activate Virtual Environment (Recommended)
 
 Open Command Prompt / Terminal inside the project folder.
 
@@ -59,7 +56,7 @@ source venv/bin/activate
 
 ---
 
-## Step 4: Install Required Libraries
+Step 4: Install Required Libraries
 
 Install all required dependencies using:
 
@@ -71,7 +68,7 @@ This installs all libraries needed to run the project.
 
 ---
 
-## Step 5: Prepare the Dataset
+Step 5: Prepare the Dataset
 
 1. Place the dataset files inside the `data/` folder.
 2. Ensure the dataset format matches the description provided in the repository.
@@ -85,7 +82,7 @@ This step cleans and prepares the data automatically.
 
 ---
 
-## Step 6: Run the Model
+Step 6: Run the Model
 
 To start training the model:
 
@@ -97,9 +94,8 @@ python train.py
 * Progress will be displayed in the terminal.
 * Trained models are saved automatically.
 
----
 
-## Step 7: Evaluate the Model
+Step 7: Evaluate the Model
 
 After training, run:
 
@@ -116,9 +112,7 @@ This generates:
 
 Results are saved in the `results/` folder.
 
----
-
-## Step 8: Generate Figures and Tables (Optional)
+Step 8: Generate Figures and Tables (Optional)
 
 To reproduce figures and tables used in the paper:
 
@@ -126,20 +120,17 @@ To reproduce figures and tables used in the paper:
 python generate_results.py
 ```
 
----
-
-## Step 9: View Outputs
+Step 9: View Outputs
 
 * **Models** → `models/`
 * **Results** → `results/`
 * **Figures** → `figures/`
 
----
-
-## Notes for Users
+Notes for Users
 
 * No code modification is required to run the project.
 * Default settings are sufficient for reproduction.
 * Random seeds are fixed to ensure reproducibility.
+
 
 
