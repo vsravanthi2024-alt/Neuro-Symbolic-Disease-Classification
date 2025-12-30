@@ -1,10 +1,10 @@
-# Neuro-symbolic disease prediction
+# Neuro-symbolic disease classification
 This repository contains the implementation of a framework that combines neural and symbolic reasoning components using an attention-based fusion mechanism, enabling effective linkage between unstructured clinical narratives and structured medical knowledge. This design supports interpretable and reliable clinical decision-support modeling.
 # Project Title
-Neuro-Symbolic Disease Prediction Framework
+Neuro-Symbolic Disease Classification Framework
 
 ## Description
-This repository contains a neuro-symbolic framework for disease prediction using emulated electronic medical records (EMRs). The approach integrates structured medical knowledge with contextual language representations to support interpretable clinical modeling.
+This repository contains a neuro-symbolic framework for disease classification using emulated electronic medical records (EMRs). The approach integrates structured medical knowledge with contextual language representations to support interpretable clinical modeling.
 
 ## Dataset Information
 - Type: Electronic Health Records/ clinical records
@@ -36,13 +36,24 @@ dataset/
 ## Code Information
 - Programming language: Python
 - Model types: Neural, symbolic, and hybrid architectures
-- Purpose: Clinical text processing and disease prediction
+- Purpose: Clinical text processing and disease classification and prediction
 
 ## Usage Instructions
-1. Clone the repository
-2. Install dependencies
-3. Run the preprocessing scripts
-4. Execute training and evaluation scripts
+Step-by-Step Execution
+
+Step 1: Clone the repository and open the project directory.
+
+Step 2: Install the required dependencies specified in the Requirements.txt file.
+
+Step 3: Execute Baseline models.py to run the proposed neuro-symbolic model.
+
+Step 4: Run Neuro Neuro-Symbolic Disease classification.ipynb to obtain baseline model results.
+
+Step 5: Execute Comparision among models.ipynb to perform comparative analysis.
+
+Step 6: Run Visualization.ipynb to generate result visualisations.
+
+Step 7: The complete reference code is available in Neuro Symbolic Disease Classification.py (Step by step code verification)
 
 ## Requirements
 - Python 3.8+
